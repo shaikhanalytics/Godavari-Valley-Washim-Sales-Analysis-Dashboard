@@ -44,5 +44,5 @@ This dashboard helps answer:
 - **Top Item by Quantity:** Soyabean — 11,450 MT (major share of total sales)
 - **Top Item by Revenue:** Soyabean — ₹49.47 Cr, followed by Chana — ₹37.69 Cr
 - **Top Performing Locations:** Ro CSN, Shirvi, Kalmunri, Adgaon (together form bulk of sales)
-- **Top Customer:** Godavari Agro Tech Pvt. Ltd. — ₹3.52 Cr purchase value
+- **Top Customer:** Goda Agro Tech Pvt. Ltd. — ₹3.52 Cr purchase value
 - **Margins:** Gross profit is comparatively thin, indicating low per-unit margins
