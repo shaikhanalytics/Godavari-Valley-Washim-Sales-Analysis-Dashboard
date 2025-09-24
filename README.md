@@ -1,7 +1,7 @@
-# godavari-sales-analysis-dashboard
+# Godavari Valley Washim — Sales Analysis Dashboard
 Excel-based sales analysis and dashboard for Godavari Valley Washim Farmer Producer Company Limited, including raw data, pivot tables, slicers, and visual charts.
 
-# Godavari Valley Washim — Sales Analysis Dashboard
+# Sales Analysis Dashboard
 
 ## 📌 Overview
 This project is an **Excel-based Sales Analysis Dashboard** built for  
