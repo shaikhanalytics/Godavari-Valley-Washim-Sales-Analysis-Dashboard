@@ -46,3 +46,55 @@ This dashboard helps answer:
 - **Top Performing Locations:** Ro CSN, Shirvi, Kalmunri, Adgaon (together form bulk of sales)
 - **Top Customer:** Goda Agro Tech Pvt. Ltd. — ₹3.52 Cr purchase value
 - **Margins:** Gross profit is comparatively thin, indicating low per-unit margins
+
+
+---
+
+## 🚀 How to Use
+1. Download and open `PROJECT_0.5.xlsx` in **Excel 2016+**.
+2. Use the **slicers** (Item, Location, Month, Day) to filter data interactively.
+3. To update data:
+   - Add new rows in the `Sales` sheet.
+   - Right-click a pivot table → **Refresh**, or click **Refresh All**.
+4. Charts & KPIs on the dashboard will auto-update.
+
+---
+
+## 📂 Data Dictionary (Sales Sheet)
+| Column | Description |
+|--------|-------------|
+| No | Serial number |
+| Transaction Date | Date of transaction |
+| Day | Day of the week |
+| Month | Month name |
+| Customer Name | Name of buyer |
+| Item Name | Product sold (Soyabean, Chana, etc.) |
+| UOM | Unit of measure |
+| No.of Bags | Number of bags sold |
+| Quantity | Total quantity in MT |
+| Rate | Rate per MT |
+| Amount | Total sale amount |
+| Location | Location of sale |
+| Division | Internal business division |
+
+---
+
+## 📌 Future Improvements
+- Automate data updates using **Power Query** or Python (pandas + openpyxl)
+- Add **KPI cards** for quick at-a-glance insights (e.g., total revenue, top item)
+- Export dashboard to **Power BI** for more interactive visuals
+- Include a **CSV version** of data for open-source analysis
+
+---
+
+## 📜 License
+This project is open-sourced under the MIT License.  
+You are free to use, modify, and share it with attribution.
+
+---
+
+## 👤 Author
+**Tauheed Shaikh**  
+*Finance Ops → Data Analytics | Learning SQL, Python, ML | Power BI Enthusiast*
+
+
