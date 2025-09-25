@@ -43,12 +43,24 @@ pivot tables, slicers, and interactive charts — all in a single, user-friendly
 ---
 
 ## 🎯 Business Questions Answered
-This dashboard helps answer:
-- Which **items** contribute the most to total sales (by quantity & revenue)?
-- Which **locations** are top-performing in terms of sales quantity?
-- Who are the **top customers** by total purchase value?
-- What is the **average rate per MT** for each item?
-- What is the monthly trend of total purchase, total sales, and gross profit?
+
+This dashboard helps answer key business questions such as:
+
+1. **Which items contribute the most to total sales (by quantity & revenue)?**
+   - Identifies top-selling products like Soyabean and Chana to focus production & marketing efforts.
+
+2. **Which locations are top-performing in terms of sales quantity?**
+   - Highlights top-performing branches/warehouses (e.g., Ro CSN, Shirvi, Kalmunri, Adgaon).
+
+3. **Who are the top customers by total purchase value?**
+   - Shows highest-value customers (e.g., Goda Agro Tech Pvt. Ltd.) for relationship management.
+
+4. **What is the average rate per MT for each item?**
+   - Helps compare pricing trends and ensures rate consistency across items.
+
+5. **What is the monthly trend of total purchase, total sales, and gross profit?**
+   - Tracks seasonality and performance month-on-month, aiding in forecasting and decision-making.
+
 
 ---
 
