@@ -21,12 +21,24 @@ pivot tables, slicers, and interactive charts — all in a single, user-friendly
 ---
 
 ## 🛠 Tools & Techniques Used
-- **Microsoft Excel** (2016/2019/365)  
-- **Pivot Tables** – for aggregating sales by item, location, customer, month  
-- **Pivot Charts** – bar, column, and 3D pie charts for visual analysis  
-- **Slicers** – interactive filtering (Item, Location, Month, Day)  
-- **Conditional Formatting** – highlighting key metrics (optional)  
-- **Basic Excel formulas** – used for calculated fields (e.g., total amount)
+- **Microsoft Excel (2016/2019/365)** – primary tool for data analysis & dashboard creation
+- **Data Cleaning & Preparation:**
+  - Removed duplicates, handled missing values
+  - Standardized column names & formats (dates, numbers)
+  - Applied data validation to avoid incorrect entries
+  - Used text-to-columns and find/replace for data formatting
+- **Pivot Tables** – aggregated sales by item, location, customer, and month
+- **Pivot Charts** – created bar, column, and 3D pie charts for easy visualization
+- **Slicers** – added interactive filtering for Item, Location, Month, and Day
+- **Conditional Formatting** – highlighted key metrics (e.g., top sales, low performance)
+- **Basic & Advanced Excel Formulas:**
+  - SUMIFS, COUNTIFS, VLOOKUP/XLOOKUP for calculations
+  - Derived calculated columns (e.g., total amount, average rate per MT)
+- **Dashboard Design & Layout:**
+  - Arranged charts and slicers in a clean, professional format
+  - Added titles, legends, and data labels for clarity
+  - Used consistent color scheme for better readability
+
 
 ---
 
